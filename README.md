@@ -10,3 +10,6 @@ It's all about Git!
 
 Here we will learn more about HTML and CSS - these are fundamentals of Web Development.
 
+## Chapter 3
+
+Using the Command Line Interface.
