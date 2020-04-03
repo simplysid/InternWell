@@ -13,3 +13,9 @@ Here we will learn more about HTML and CSS - these are fundamentals of Web Devel
 ## Chapter 3
 
 Using the Command Line Interface.
+
+### Corona
+
+- [Coronavirus (COVID-19) - NHS - NHS](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+- [Corona - Wikipedia](https://en.wikipedia.org/wiki/Corona)
+
